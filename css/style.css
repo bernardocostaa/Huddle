@@ -187,31 +187,31 @@ a {
 }
 
 .bg-wave-top-together {
-  background: url("/images/bg-section-top-desktop-1.svg") no-repeat;
+  background: url("../images/bg-section-bottom-desktop-1.svg") no-repeat;
   background-size: cover;
   height: 165px;
 }
 
 .bg-wave-top-users {
-  background: url("/images/bg-section-top-desktop-2.svg") no-repeat;
+  background: url("../images/bg-section-top-desktop-2.svg") no-repeat;
   background-size: cover;
   height: 165px;
 }
 
 .bg-wave-footer {
-  background: url("/images/bg-footer-top-desktop.svg") no-repeat;
+  background: url("../images/bg-footer-top-desktop.svg") no-repeat;
   background-size: cover;
   height: 158px;
 }
 
 .bg-wave-bottom-together {
-  background: url("/images/bg-section-bottom-desktop-1.svg") no-repeat;
+  background: url("../images/bg-section-bottom-desktop-1.svg") no-repeat;
   background-size: cover;
   height: 165px;
 }
 
 .bg-wave-bottom-users {
-  background: url("/images/bg-section-bottom-desktop-2.svg") no-repeat;
+  background: url("../images/bg-section-bottom-desktop-2.svg") no-repeat;
   background-size: cover;
   height: 165px;
 }
@@ -341,25 +341,25 @@ a {
   }
 
   .bg-wave-top-together {
-    background: url("./images/bg-section-top-mobile-1.svg") no-repeat;
+    background: url("../images/bg-section-top-mobile-1.svg") no-repeat;
     background-size: cover;
     height: 112px;
   }
 
   .bg-wave-bottom-together {
-    background: url("./images/bg-section-bottom-desktop-1.svg") no-repeat;
+    background: url("../images/bg-section-bottom-desktop-1.svg") no-repeat;
     background-size: cover;
     height: 52px;
   }
 
   .bg-wave-top-users {
-    background: url("./images/bg-section-top-mobile-2.svg") no-repeat;
+    background: url("../images/bg-section-top-mobile-2.svg") no-repeat;
     background-size: cover;
     height: 103px;
   }
 
   .bg-wave-bottom-users {
-    background: url("./images/bg-section-bottom-desktop-2.svg") no-repeat;
+    background: url("../images/bg-section-bottom-desktop-2.svg") no-repeat;
     background-size: cover;
     height: 52px;
   }
@@ -405,7 +405,7 @@ a {
   }
 
   .bg-wave-footer{
-    background: url("./images/bg-footer-top-mobile.svg") no-repeat;
+    background: url("../images/bg-footer-top-mobile.svg") no-repeat;
     background-size: cover;
     height: 53px;
   }
