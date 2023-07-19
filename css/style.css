@@ -341,7 +341,7 @@ a {
   }
 
   .bg-wave-top-together {
-    background: url("../images/bg-section-top-mobile-1.svg") no-repeat;
+    background: url("../images/bg-section-top-desktop-1.svg") no-repeat;
     background-size: cover;
     height: 112px;
   }
