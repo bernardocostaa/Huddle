@@ -29,7 +29,7 @@ Link do Projeto: [Huddle](https://bernardocostaa.github.io/Huddle/)
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/bernardocostaa/AutoCar/blob/main/LICENSE) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/bernardocostaa/Huddle/blob/main/LICENSE) para mais detalhes.
 
 ---
 
